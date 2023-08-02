@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display:inline-block;
+}
+
+li{
+    font-size: 20px;
+    margin: 8px;
+    padding: 10px;
+    border: 2px solid black;
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+h1{
+    background-color:blanchedalmond;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 8px;
+}
+
+.one{
+    background-color: rgb(141, 238, 102);
+}
+
+.two{
+    background-color:antiquewhite
+}
+
+.three{
+    background-color: burlywood
+}
+
+body{
+    background-color:beige;
+}
+
+.card{
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 50px;
+    text-align: center;
+    width: 400px;
+}
